@@ -1,4 +1,4 @@
-# OFM-magpie-CNN-model-PF_regression
+# OFM-magpie-CNN-model-regression
 Regression by CNN model that utilizes orbital field matrix (OFM) and magpie features. The model can be used on any continuous target (regression). The model can be used to train for various materials properties including thermal, mechanical, magnetic, optical, etc.
 
 ## Usage
